@@ -1,0 +1,57 @@
+--- AGE: 18 ---
+[graphEngine] Evaluating: field="age" value=18(18) greater_equal 20(20)
+[graphEngine] Condition evaluation result: false FAILED: {"field":"age","operator":"greater_equal","value":"20"}
+{
+  "status": "rejected",
+  "currentNodeId": "2",
+  "taskNodeId": null,
+  "taskAssignedRole": null,
+  "notificationData": null,
+  "rejectedReason": "You do not meet the eligibility criteria.",
+  "failedCondition": {
+    "field": "age",
+    "operator": "greater_equal",
+    "value": "20"
+  },
+  "nodeHistory": [
+    {
+      "nodeId": "1",
+      "nodeType": "start",
+      "label": "start"
+    },
+    {
+      "nodeId": "2",
+      "nodeType": "condition",
+      "label": "condition"
+    }
+  ]
+}
+--- AGE: 22 ---
+[graphEngine] Evaluating: field="age" value=22(22) greater_equal 20(20)
+[graphEngine] Condition evaluation result: true 
+{
+  "status": "task_created",
+  "currentNodeId": "3",
+  "taskNodeId": "3",
+  "taskAssignedRole": "any",
+  "taskLabel": "Loan Approved",
+  "notificationData": null,
+  "rejectedReason": null,
+  "nodeHistory": [
+    {
+      "nodeId": "1",
+      "nodeType": "start",
+      "label": "start"
+    },
+    {
+      "nodeId": "2",
+      "nodeType": "condition",
+      "label": "condition"
+    },
+    {
+      "nodeId": "3",
+      "nodeType": "task",
+      "label": "Loan Approved"
+    }
+  ]
+}
