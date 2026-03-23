@@ -104,12 +104,6 @@ To explore the role-based features and approval routing across different dashboa
 │   │   └── main.jsx      # React DOM hydration
 ```
 
-## Screenshots
-
-* **Workflow Builder Canvas**
-* **Dynamic Form Application**
-* **Live Execution Tracker**
-* **Approval Queue Dashboard**
 
 ## Future Improvements
 - **Webhook Integration**: Allow external systems to trigger workflow inputs via APIs.
