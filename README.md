@@ -106,7 +106,29 @@ To explore the role-based features and approval routing across different dashboa
 ## 🎥 Demo Video Link
 https://drive.google.com/file/d/1PN5YRrd7gjFFE9JBmSV2uI87gx-0kHJk/view?usp=drive_link
 
-
+## Output Screenshot
+<img width="1920" height="965" alt="Image" src="https://github.com/user-attachments/assets/8e3bef6a-3d21-4c2f-a0fe-74497f626d7a" />
+<img width="1919" height="960" alt="Image" src="https://github.com/user-attachments/assets/4b05f138-494d-45db-a725-cd55d33222de" />
+<img width="1913" height="959" alt="Image" src="https://github.com/user-attachments/assets/3d44c28e-b58e-4340-b9a3-ea13d615f305" />
+<img width="1920" height="964" alt="Image" src="https://github.com/user-attachments/assets/03f157d6-73d3-4ff0-841d-8df109b0f835" />
+<img width="1920" height="966" alt="Image" src="https://github.com/user-attachments/assets/5f87fdbf-ea69-4b67-b962-b517a05e3db2" />
+<img width="1910" height="952" alt="Image" src="https://github.com/user-attachments/assets/ea2d94e1-ce93-4f2c-b2e0-6d70d78c298f" />
+<img width="1920" height="960" alt="Image" src="https://github.com/user-attachments/assets/f7ce12d8-f40e-44bd-a778-45ca61f79be8" />
+<img width="1915" height="959" alt="Image" src="https://github.com/user-attachments/assets/8eb52f82-9c28-4c96-b303-71f4e39b6723" />
+<img width="1915" height="958" alt="Image" src="https://github.com/user-attachments/assets/4f89ef60-6e56-4657-979c-c459815619a1" />
+<img width="1916" height="965" alt="Image" src="https://github.com/user-attachments/assets/1a3313e9-29cf-4926-91e0-3a907369200b" />
+<img width="1920" height="965" alt="Image" src="https://github.com/user-attachments/assets/16aa13d5-c12b-4900-aaf1-c6c14aa07394" />
+<img width="1913" height="968" alt="Image" src="https://github.com/user-attachments/assets/7cae6b47-f49d-4e80-8579-d3524baf2722" />
+<img width="1920" height="963" alt="Image" src="https://github.com/user-attachments/assets/5d34481f-1a69-45ac-ab91-1e547fb2dd00" />
+<img width="1920" height="967" alt="Image" src="https://github.com/user-attachments/assets/772a2f0a-6770-423c-82d4-3da5c667f9c9" />
+<img width="1920" height="961" alt="Image" src="https://github.com/user-attachments/assets/e09379b8-8f52-4cb3-8c91-e5415d9e4bda" />
+<img width="1920" height="961" alt="Image" src="https://github.com/user-attachments/assets/bd712b26-11e5-497c-8409-53c4d9c7a696" />
+<img width="1920" height="967" alt="Image" src="https://github.com/user-attachments/assets/bba99780-e5e8-4d5f-be5a-276ad9dd6180" />
+<img width="1912" height="965" alt="Image" src="https://github.com/user-attachments/assets/3e0c200b-1e42-433e-87aa-f8d60ec36604" />
+<img width="1920" height="968" alt="Image" src="https://github.com/user-attachments/assets/e927d33a-acd8-4c87-8171-7ee550355252" />
+<img width="1918" height="969" alt="Image" src="https://github.com/user-attachments/assets/cc9ed539-6a13-43ff-96ca-ca15b6139831" />
+<img width="1918" height="970" alt="Image" src="https://github.com/user-attachments/assets/7a58bd53-9cd4-4c4f-b501-0de302b6e28c" />
+<img width="1920" height="970" alt="Image" src="https://github.com/user-attachments/assets/c27872f5-37c9-4b5b-b185-87e8fcaec9b8" />
 
 ## Future Improvements
 - **Webhook Integration**: Allow external systems to trigger workflow inputs via APIs.
